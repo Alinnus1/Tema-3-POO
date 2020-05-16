@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1589635899 source:d:\facultate an1 sem2\poo\proiect3\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+	<vector>
+	<typeinfo>
+	<exception>
+
